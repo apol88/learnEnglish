@@ -6,7 +6,7 @@
  * Time: 16:27
  */
 
-namespace learnenglish;
+namespace apol88\learnenglish;
 
 
 class First
