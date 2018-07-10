@@ -1,7 +1,12 @@
 {
-    "name": "apol88/learnenglish",
-    "description": "mytest",
-    "type": "yii2-extension",
-    "license": "BSD-3-Clause",
-    "require": {}
+  "name": "apol88/learnenglish",
+  "description": "mytest",
+  "type": "yii2-extension",
+  "license": "BSD-3-Clause",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "apol88\\learnenglish\\": ""
+    }
+  }
 }
