@@ -19,5 +19,7 @@ class First
         echo 'Hi';
         echo "<br>";
         echo 'Hi2';
+        echo "<br>";
+        echo 'Hi3';
     }
 }
