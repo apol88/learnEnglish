@@ -17,5 +17,7 @@ class First
     public function run()
     {
         echo 'Hi';
+        echo "<br>";
+        echo 'Hi2';
     }
 }
